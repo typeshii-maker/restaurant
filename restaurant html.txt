@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>My First Project</title>
+<h1>tumbo lisiloshina hotel</h1>
+ <title>TUMBO LISILOSHIBA HOTEL</title>
 </head>
 <body>
  <h1>Hello World</h1>
