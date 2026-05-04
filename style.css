@@ -1,0 +1,28 @@
+*{
+   margin: 0;
+   padding:0;  
+}
+nav{
+    background:black ;
+    padding: 1rem;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    color: gold;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: block;
+}
+nav ul li a:hover{
+    background-color: black;
+    border-radius: 5px;
+}
